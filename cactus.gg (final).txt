@@ -346,7 +346,7 @@ local Script = {
 
 getgenv().Sentinel = {
     Enabled = true,
-    HorizontalPrediction = 0.12734675,
+    HorizontalPrediction = 0.12528333333333,
     VerticalPrediction = 0.13451289,
     jumpoffset2 = -0.40,
     jumpoffset = 0,
@@ -354,7 +354,7 @@ getgenv().Sentinel = {
     SelectedPart = "HumanoidRootPart",
     AutoPrediction = false,
     AutoPredMode = "PingBased", 
-    ShootDelay = 0.10,
+    ShootDelay = 0.22,
     NoGroundShot = true,
     AutoAir = false,
     LookAt = false,
