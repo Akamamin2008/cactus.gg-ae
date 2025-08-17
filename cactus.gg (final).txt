@@ -336,10 +336,10 @@ local Script = {
                 },
             },
             Exploits = {
-                Enabled = false,
-                NoRecoil = false,
-                NoJumpCooldown = false,
-                NoSlowDown = false
+                Enabled = true,
+                NoRecoil = true,
+                NoJumpCooldown = true,
+                NoSlowDown = true
             }
         }
     }
